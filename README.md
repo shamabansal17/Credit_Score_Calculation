@@ -1,5 +1,6 @@
-# Customer Credit Data Analysis and Hypothetical Credit Scoring
+![](https://github.com/shamabansal17/Credit_Score_Calculation/blob/main/credit_score.png)
 
+# Customer Credit Data Analysis and Hypothetical Credit Scoring
 ## Project Overview
 
 This project involves a thorough **Exploratory Data Analysis (EDA)** and the development of a **hypothetical credit scoring system** using a comprehensive dataset of customer details and credit-related information. The goal is to uncover meaningful patterns, identify potential risks, and guide strategies for credit risk mitigation by building insightful features and models.
