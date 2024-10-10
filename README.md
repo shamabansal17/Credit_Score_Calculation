@@ -1,4 +1,4 @@
-![](https://github.com/shamabansal17/Credit_Score_Calculation/blob/main/credit_score.png)
+![](https://github.com/shamabansal17/Credit_Score_Calculation/blob/main/cs_shama.png)
 
 # Customer Credit Data Analysis and Hypothetical Credit Scoring
 ## Project Overview
